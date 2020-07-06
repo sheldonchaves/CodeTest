@@ -38,7 +38,6 @@ A idéia é fazer um sistema de cadastro simples de Pacientes de um hospital, en
 
 - Cada paciente tem apenas um endereço (fique a vontade)
 - A modelagem dos dados fica a seu critério. 
-- Não se preocupe com autenticação ou multitenancy.
 - Banco de dados pode ser em memória (H2...)
 - Se for fazer o front, pode utilizar componentes básicos e sem customização de qualquer framework padrão de CSS, (bootstrap, material...)
 
